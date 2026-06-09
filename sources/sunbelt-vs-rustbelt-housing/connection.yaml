@@ -1,0 +1,4 @@
+name: sunbelt-vs-rustbelt-housing
+type: csv
+options:
+  path: ./data.csv
