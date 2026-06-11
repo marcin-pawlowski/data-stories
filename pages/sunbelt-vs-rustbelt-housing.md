@@ -14,17 +14,6 @@ The post-pandemic Sun Belt boom has clearly cracked: Phoenix, Dallas, Houston, M
 ## The headline finding
 Dallas home values peaked at $397.6K in August 2022 and are projected at $366.7K by April 2026 — a 7.8% nominal decline over nearly four years — while Detroit, the poster child of Rust Belt decline, rose from $238K to $266K (+11.9%) over the same window.
 
-## Three chart ideas
-
-1. **Slope chart / dumbbell** — y = metro (RegionName), x1 = ZHVI at 2022-08-31 peak, x2 = ZHVI at 2026-04-30; color = red if declining, green if rising. Viewer learns: Instantly shows which metros gave back pandemic gains (Dallas, Phoenix, Austin, Tampa) versus which kept compounding (Detroit, Chicago, NYC, Boston).
-
-2. **Small-multiple line chart** — x = month (2019-01 to 2026-04), y = ZHVI indexed to 100 at Jan 2020, one panel per metro, color = Sun Belt vs Rust Belt. Viewer learns: Reveals the V-shape in Sun Belt metros (sharp run-up, rolling over by mid-2022) versus the steadier staircase in Rust Belt metros.
-
-3. **Diverging bar chart** — y = top 20 metros by SizeRank, x = YoY % change from 2024-10 to 2025-10; color = sign of change. Viewer learns: A single 'who's hot, who's not' snapshot for late 2025 — Dallas/Phoenix/Miami negative, Detroit/Chicago/NY/Philly positive.
-
-
-## Suggested LinkedIn angle
-> I pulled Zillow's metro-level home value index back to 2000 and the reversal jumped off the screen: Dallas home values are now lower than they were in August 2022, while Detroit — yes, Detroit — has quietly added nearly 12% over the same stretch. The 2021 'move to the Sun Belt' trade has fully unwound in the data, and I don't think the headlines have caught up yet.
 
 ## Caveats
 ZHVI is a smoothed, seasonally adjusted mid-tier index — it understates volatility and lags transaction prices by a few weeks. Values past the current release date (roughly early 2026 in this file) are Zillow's forecast, not observed sales, and should be labeled as such. Metro boundaries are MSA-level, so intra-metro divergence (e.g., Austin core vs. exurbs) is hidden. Nominal dollars only — no inflation adjustment, which materially flatters the Rust Belt 'gains' in real terms. CC BY license requires attribution to Zillow.
