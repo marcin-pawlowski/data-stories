@@ -12,7 +12,7 @@ hide_title: true
     bills, what people are actually searching for — the numbers behind everyday life.
   </p>
   <div class="hero-actions">
-    <a class="btn btn-primary" href="/data-stories/sunbelt-vs-rustbelt-housing">Read the latest story</a>
+    <a class="btn btn-primary" href="/data-stories/ai-data-center-power-demand">Read the latest story</a>
     <a class="btn btn-ghost" href="https://www.linkedin.com/in/pawlovski/" target="_blank" rel="noopener">Connect on LinkedIn</a>
   </div>
 </div>
@@ -38,18 +38,30 @@ No black boxes. Every story says where the data came from and what it doesn't te
 <div class="section">
   <h2 class="section-title">Latest stories</h2>
   <div class="cards">
+    <a class="card" href="/data-stories/ai-data-center-power-demand">
+      <span class="card-tag">Energy &amp; AI</span>
+      <span class="card-title">AI data centers are eating the grid</span>
+      <span class="card-desc">Data centers went from 2.6% to 4.9% of US electricity in five years — nearly 1 in 20 kWh. IEA estimates by region, 2020–2025.</span>
+      <span class="card-link">Read story →</span>
+    </a>
+    <a class="card" href="/data-stories/us-rent-affordability-2026">
+      <span class="card-tag">Cost of living</span>
+      <span class="card-title">111 years of US rent</span>
+      <span class="card-desc">The CPI rent index rose 21× since 1914 — and nearly half of that increase has come just since 2000. A century on one chart.</span>
+      <span class="card-link">Read story →</span>
+    </a>
+    <a class="card" href="/data-stories/california-housing-rent-vs-buy">
+      <span class="card-tag">Housing</span>
+      <span class="card-title">California's great coastal cooldown</span>
+      <span class="card-desc">San Francisco homes are worth ~$120K less than their 2022 peak while the US index hit new highs. Zillow's metro index.</span>
+      <span class="card-link">Read story →</span>
+    </a>
     <a class="card" href="/data-stories/sunbelt-vs-rustbelt-housing">
       <span class="card-tag">Housing</span>
       <span class="card-title">Sun Belt vs. Rust Belt: the housing reversal</span>
       <span class="card-desc">Dallas home values dipped below their 2022 peak while Detroit kept climbing. Two decades of Zillow's metro index, side by side.</span>
       <span class="card-link">Read story →</span>
     </a>
-    <div class="card card-soon">
-      <span class="card-tag">Weekly</span>
-      <span class="card-title">A new story every week</span>
-      <span class="card-desc">The agent runs on a weekly cadence. Next one's already brewing — check back or follow along on LinkedIn.</span>
-      <span class="card-link card-link-muted">Coming soon</span>
-    </div>
   </div>
 </div>
 

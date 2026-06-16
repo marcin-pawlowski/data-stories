@@ -1,0 +1,4 @@
+name: ai-data-center-power-demand
+type: csv
+options:
+  path: ./data.csv

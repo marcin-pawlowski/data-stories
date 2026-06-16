@@ -1,9 +1,6 @@
 ---
-title: Sunbelt Vs Rustbelt Housing
+title: "Sun Belt vs. Rust Belt: The Great Housing Reversal"
 ---
-
-# Sun Belt vs. Rust Belt: The Great Housing Market Reversal (2020-2026)
-
 
 ## What it is
 Zillow's monthly ZHVI (smoothed, seasonally adjusted, mid-tier all-homes) for ~895 US metros from January 2000 through April 2026, sourced directly from Zillow Research. Each row is one geography (US, MSA) with ~315 monthly price columns — making YoY and peak-to-trough math trivial for every metro on the same axis.

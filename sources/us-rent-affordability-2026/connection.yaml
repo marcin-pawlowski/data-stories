@@ -1,0 +1,4 @@
+name: us-rent-affordability-2026
+type: csv
+options:
+  path: ./data.csv

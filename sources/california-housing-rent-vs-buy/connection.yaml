@@ -1,0 +1,4 @@
+name: california-housing-rent-vs-buy
+type: csv
+options:
+  path: ./data.csv
