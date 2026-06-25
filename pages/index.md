@@ -1,11 +1,11 @@
 ---
 title: Data Stories
-description: Weekly data stories by Marcin Pawłowski — short, visual breakdowns of public datasets on inflation, housing, energy, and the cost of living.
+description: Weekly data stories by Marcin Pawlowski — short, visual breakdowns of public datasets on inflation, housing, energy, and the cost of living.
 hide_title: true
 ---
 
 <div class="hero">
-  <p class="eyebrow">Marcin Pawłowski — Digital Analytics &amp; Applied AI</p>
+  <p class="eyebrow">Marcin Pawlowski — Digital Analytics &amp; Applied AI</p>
   <h1 class="hero-title">Data Stories</h1>
   <p class="hero-sub">
     Every week an agent I built goes looking for one public dataset worth a
