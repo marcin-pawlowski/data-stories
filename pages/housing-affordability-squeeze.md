@@ -1,5 +1,6 @@
 ---
 title: America's Two-Speed Housing Market
+description: US housing has split in two — California home values have fallen every month since January 2025 while New York and Massachusetts hit new highs. ZHVI by state.
 ---
 
 The "housing affordability squeeze" isn't one story anymore — it's two. Zillow's state-level home value index shows **California peaked in January 2025 and has fallen every month since** (to ~$776K), while **New York, Massachusetts, and New Jersey keep setting fresh highs**. The expensive coasts are diverging, and the post-2020 Sun Belt boom has cooled.

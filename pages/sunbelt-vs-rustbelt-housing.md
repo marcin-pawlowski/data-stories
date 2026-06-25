@@ -1,5 +1,6 @@
 ---
 title: "Sun Belt vs. Rust Belt: The Great Housing Reversal"
+description: Dallas home values dipped below their 2022 peak while Detroit kept climbing. Two decades of Zillow's metro home value index, Sun Belt vs. Rust Belt.
 ---
 
 ## What it is

@@ -1,5 +1,6 @@
 ---
 title: Inflation Is Back at a 3-Year High
+description: US inflation hit a 3-year high of 4.2% in May 2026. We break the CPI down by category — and the surprise driver is transportation at 8.3%, not shelter.
 ---
 
 US consumer prices rose **4.2%** over the year to May 2026 — the hottest annual inflation since 2023, and a clear reversal of the disinflation everyone had penciled in. But the driver isn't the "sticky shelter" story you keep hearing. The category running hottest is **transportation, at 8.3%**, while energy inflation has nearly vanished (0.9%) and housing has cooled to 3.9%.

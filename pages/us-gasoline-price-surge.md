@@ -1,5 +1,6 @@
 ---
 title: 35 Years of Gas Prices
+description: 35 years of weekly US gasoline prices. Where today's pump price ranks against every oil shock since 1990 — and why the 2026 spike is already cooling.
 ---
 
 US gas prices climbed this spring on the Iran-war oil shock, peaking near **$4.49/gallon** in mid-May 2026. But the more useful view is the long one: 35 years of weekly pump prices put today's number — and every "unprecedented" surge — in perspective. As of late June the national average is **$3.91 and easing** — still high by historical standards, but already well off the spring peak and below the 2022 record.

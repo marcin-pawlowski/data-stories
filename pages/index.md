@@ -1,5 +1,6 @@
 ---
 title: Data Stories
+description: Weekly data stories by Marcin Pawłowski — short, visual breakdowns of public datasets on inflation, housing, energy, and the cost of living.
 hide_title: true
 ---
 

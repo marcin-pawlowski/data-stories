@@ -1,5 +1,6 @@
 ---
 title: California Housing — The Great Coastal Cooldown
+description: San Francisco home values sit well below their 2022 peak even as the US index hits new highs. California's coastal housing cooldown, mapped with Zillow's ZHVI.
 ---
 
 Zillow's Home Value Index (ZHVI) tells a stark story: San Francisco's typical home

@@ -1,5 +1,6 @@
 ---
 title: AI Data Centers Are Eating the Grid
+description: Data centers went from 2.6% to 4.9% of US electricity in five years — nearly 1 in 20 kWh. IEA estimates of data-center power demand by region, 2020–2025.
 ---
 
 In 2020, data centers used about **2.6%** of all the electricity in the United States. By 2025 that figure had climbed to **4.9%** — nearly one in every twenty kilowatt-hours. The AI build-out everyone talks about in abstract terawatts shows up here as a measurable, fast-growing line item on the world's biggest grids.

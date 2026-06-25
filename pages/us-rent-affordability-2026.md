@@ -1,5 +1,6 @@
 ---
 title: 111 Years of US Rent
+description: 111 years of the US CPI rent index, 1914–2026. Rents rose 21× — and nearly half of that entire increase has come just since the year 2000.
 ---
 
 The Consumer Price Index for rent goes back to December 1914, when it sat at **21**. By 2026 it had reached **446** — a roughly 21× nominal rise. The striking part: nearly half of that entire 111-year increase has happened just since the year 2000. When people say housing "feels different now," the long view agrees.
