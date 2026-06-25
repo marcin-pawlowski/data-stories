@@ -12,7 +12,7 @@ hide_title: true
     bills, what people are actually searching for — the numbers behind everyday life.
   </p>
   <div class="hero-actions">
-    <a class="btn btn-primary" href="/data-stories/ai-data-center-power-demand">Read the latest story</a>
+    <a class="btn btn-primary" href="/data-stories/cpi-three-year-high">Read the latest story</a>
     <a class="btn btn-ghost" href="https://www.linkedin.com/in/pawlovski/" target="_blank" rel="noopener">Connect on LinkedIn</a>
   </div>
 </div>
@@ -38,6 +38,24 @@ No black boxes. Every story says where the data came from and what it doesn't te
 <div class="section">
   <h2 class="section-title">Latest stories</h2>
   <div class="cards">
+    <a class="card" href="/data-stories/cpi-three-year-high">
+      <span class="card-tag">Inflation</span>
+      <span class="card-title">Inflation is back at a 3-year high</span>
+      <span class="card-desc">US prices rose 4.2% in the year to May 2026 — and the surprise driver is transportation at 8.3%, not shelter. The 4.2% decomposed.</span>
+      <span class="card-link">Read story →</span>
+    </a>
+    <a class="card" href="/data-stories/us-gasoline-price-surge">
+      <span class="card-tag">Cost of living</span>
+      <span class="card-title">35 years of gas prices</span>
+      <span class="card-desc">Pump prices spiked on the Iran-war oil shock, then started cooling. Where today's ~$3.91 ranks against every shock since 1990.</span>
+      <span class="card-link">Read story →</span>
+    </a>
+    <a class="card" href="/data-stories/housing-affordability-squeeze">
+      <span class="card-tag">Housing</span>
+      <span class="card-title">America's two-speed housing market</span>
+      <span class="card-desc">California has fallen every month since January 2025 while New York and Massachusetts hit new highs. Home values by state.</span>
+      <span class="card-link">Read story →</span>
+    </a>
     <a class="card" href="/data-stories/ai-data-center-power-demand">
       <span class="card-tag">Energy &amp; AI</span>
       <span class="card-title">AI data centers are eating the grid</span>

@@ -1,0 +1,4 @@
+name: housing-affordability-squeeze
+type: csv
+options:
+  path: ./data.csv

@@ -1,0 +1,4 @@
+name: cpi-three-year-high
+type: csv
+options:
+  path: ./data.csv

@@ -1,0 +1,4 @@
+name: us-gasoline-price-surge
+type: csv
+options:
+  path: ./data.csv
