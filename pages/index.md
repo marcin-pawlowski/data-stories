@@ -13,7 +13,7 @@ hide_title: true
     bills, what people are actually searching for — the numbers behind everyday life.
   </p>
   <div class="hero-actions">
-    <a class="btn btn-primary" href="/data-stories/cpi-three-year-high">Read the latest story</a>
+    <a class="btn btn-primary" href="/data-stories/ireland-data-centers">Read the latest story</a>
     <a class="btn btn-ghost" href="https://www.linkedin.com/in/pawlovski/" target="_blank" rel="noopener">Connect on LinkedIn</a>
   </div>
 </div>
@@ -39,6 +39,42 @@ No black boxes. Every story says where the data came from and what it doesn't te
 <div class="section">
   <h2 class="section-title">Latest stories</h2>
   <div class="cards">
+    <a class="card" href="/data-stories/ireland-data-centers">
+      <span class="card-tag">Energy &amp; AI</span>
+      <span class="card-title">The country where data centers eat a quarter of the grid</span>
+      <span class="card-desc">In Ireland, data centers now draw 22% of all electricity — up from 4% in 2015. The clearest real-world picture of AI's pull on a national grid.</span>
+      <span class="card-link">Read story →</span>
+    </a>
+    <a class="card" href="/data-stories/undersea-cables-carry-ai">
+      <span class="card-tag">Infrastructure</span>
+      <span class="card-title">The internet has a floor, and it's on the seabed</span>
+      <span class="card-desc">Almost all intercontinental data — including AI traffic — runs through glass cables on the ocean floor. 694 systems, and AI is driving the biggest build-out yet.</span>
+      <span class="card-link">Read story →</span>
+    </a>
+    <a class="card" href="/data-stories/ev-switchover">
+      <span class="card-tag">Energy &amp; tech</span>
+      <span class="card-title">In Norway, the petrol car is already over</span>
+      <span class="card-desc">97% of new cars sold in Norway are electric. Against China, Europe and the US, you see four very different speeds of the same transition.</span>
+      <span class="card-link">Read story →</span>
+    </a>
+    <a class="card" href="/data-stories/europe-deeptech">
+      <span class="card-tag">Innovation</span>
+      <span class="card-title">The billion-dollar tech firms Europe built quietly</span>
+      <span class="card-desc">Everyone names the same five US giants. Europe meanwhile built a ~$690B deep-tech sector full of companies most people have never heard of.</span>
+      <span class="card-link">Read story →</span>
+    </a>
+    <a class="card" href="/data-stories/smr-builders">
+      <span class="card-tag">Energy</span>
+      <span class="card-title">Everyone's racing to build a small reactor. China finished one.</span>
+      <span class="card-desc">Small modular reactors are pitched as the answer to AI's power demand. A dozen firms are building them — only China's is actually going live in 2026.</span>
+      <span class="card-link">Read story →</span>
+    </a>
+    <a class="card" href="/data-stories/asia-power-demand">
+      <span class="card-tag">Energy</span>
+      <span class="card-title">Watching half the world switch on</span>
+      <span class="card-desc">A new open dataset opens up daily electricity demand across 12 Asian countries. India's decade-long climb — up over 50% — leads the way.</span>
+      <span class="card-link">Read story →</span>
+    </a>
     <a class="card" href="/data-stories/cpi-three-year-high">
       <span class="card-tag">Inflation</span>
       <span class="card-title">Inflation is back at a 3-year high</span>

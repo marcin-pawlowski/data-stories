@@ -1,0 +1,4 @@
+name: ireland-data-centers
+type: csv
+options:
+  path: ./data.csv

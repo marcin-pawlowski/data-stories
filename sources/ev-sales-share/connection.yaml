@@ -1,0 +1,4 @@
+name: ev-sales-share
+type: csv
+options:
+  path: ./data.csv
