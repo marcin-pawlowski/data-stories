@@ -1,4 +1,0 @@
-name: europe-data-centre-electricity-costs
-type: csv
-options:
-  path: ./data.csv
