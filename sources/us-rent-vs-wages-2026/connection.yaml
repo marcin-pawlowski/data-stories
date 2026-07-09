@@ -1,0 +1,4 @@
+name: us-rent-vs-wages-2026
+type: csv
+options:
+  path: ./data.csv
