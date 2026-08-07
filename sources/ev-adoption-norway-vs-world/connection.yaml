@@ -1,0 +1,4 @@
+name: ev-adoption-norway-vs-world
+type: csv
+options:
+  path: ./data.csv

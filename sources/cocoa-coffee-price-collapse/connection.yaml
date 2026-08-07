@@ -1,0 +1,4 @@
+name: cocoa-coffee-price-collapse
+type: csv
+options:
+  path: ./data.csv
