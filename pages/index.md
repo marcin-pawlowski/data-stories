@@ -38,6 +38,7 @@ No black boxes. Every story says where the data came from and what it doesn't te
 
 <div class="section">
   <h2 class="section-title">Latest stories</h2>
+  <h3 class="date-head">30 June 2026</h3>
   <div class="cards">
     <a class="card" href="/data-stories/ireland-data-centers">
       <span class="card-tag">Energy &amp; AI</span>
@@ -75,6 +76,10 @@ No black boxes. Every story says where the data came from and what it doesn't te
       <span class="card-desc">A new open dataset opens up daily electricity demand across 12 Asian countries. India's decade-long climb — up over 50% — leads the way.</span>
       <span class="card-link">Read story →</span>
     </a>
+  </div>
+
+  <h3 class="date-head">25 June 2026</h3>
+  <div class="cards">
     <a class="card" href="/data-stories/cpi-three-year-high">
       <span class="card-tag">Inflation</span>
       <span class="card-title">Inflation is back at a 3-year high</span>
@@ -93,6 +98,10 @@ No black boxes. Every story says where the data came from and what it doesn't te
       <span class="card-desc">California has fallen every month since January 2025 while New York and Massachusetts hit new highs. Home values by state.</span>
       <span class="card-link">Read story →</span>
     </a>
+  </div>
+
+  <h3 class="date-head">16 June 2026</h3>
+  <div class="cards">
     <a class="card" href="/data-stories/ai-data-center-power-demand">
       <span class="card-tag">Energy &amp; AI</span>
       <span class="card-title">AI data centers are eating the grid</span>
@@ -111,6 +120,10 @@ No black boxes. Every story says where the data came from and what it doesn't te
       <span class="card-desc">San Francisco homes are worth ~$120K less than their 2022 peak while the US index hit new highs. Zillow's metro index.</span>
       <span class="card-link">Read story →</span>
     </a>
+  </div>
+
+  <h3 class="date-head">9 June 2026</h3>
+  <div class="cards">
     <a class="card" href="/data-stories/sunbelt-vs-rustbelt-housing">
       <span class="card-tag">Housing</span>
       <span class="card-title">Sun Belt vs. Rust Belt: the housing reversal</span>
@@ -210,6 +223,24 @@ No black boxes. Every story says where the data came from and what it doesn't te
     margin: 0 0 1rem 0;
     padding: 0;
   }
+  .date-head {
+    display: flex;
+    align-items: center;
+    gap: 0.85rem;
+    font-size: 0.9rem;
+    font-weight: 600;
+    opacity: 0.6;
+    border: none;
+    margin: 1.9rem 0 1rem 0;
+    padding: 0;
+  }
+  .date-head::after {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: rgba(127,127,127,0.22);
+  }
+  .date-head:first-of-type { margin-top: 0.6rem; }
   .prose { font-size: 1.05rem; line-height: 1.7; opacity: 0.92; }
   .prose p { margin: 0 0 1rem 0; }
 
